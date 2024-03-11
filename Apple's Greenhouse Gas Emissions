@@ -1,0 +1,16 @@
+Project Overview:
+
+This project aims to analyze Apple's greenhouse gas (GHG) emissions data to assess its environmental impact and identify trends over time. By leveraging Excel's data analysis capabilities, we will explore the various sources of GHG emissions, their contributions to the total emissions, and any patterns or changes that may be occurring. The insights gained from this analysis will help Apple in its sustainability efforts and in setting future emission reduction targets.
+
+Methods:
+
+1.  Data Collection: Gathered annual GHG emissions data from Apple's sustainability reports and other relevant sources.
+2.  Data Cleaning: Cleaned the data to remove any inconsistencies or errors, ensuring its accuracy and reliability for analysis.
+3.  Data Analysis: Used Excel's pivot tables, charts, and formulas to analyze the data and identify trends, such as changes in emissions levels, emission sources, and emission intensity.
+4.  Visualization: Created visualizations, such as charts and graphs, to present the findings in a clear and concise manner.
+5.  Interpretation: Interpreted the results to draw conclusions about Apple's GHG emissions profile and its implications for sustainability.
+
+Results:
+
+1.  Identified the major sources of GHG emissions for Apple, such as manufacturing, transportation, and energy use.
+2.  Analyzed the trend in emissions over the past few years, highlighting any significant changes or patterns.
