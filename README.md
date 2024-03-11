@@ -1,1 +1,0 @@
-# Apple-s-Greenhouse-Gas-Emissions
